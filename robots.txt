@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://valba4668.github.io/free-tools/sitemap.xml
